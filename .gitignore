@@ -1,0 +1,8 @@
+# folder settings
+multithreading.iml
+.idea/
+target/
+logs/
+
+# class files
+out/
